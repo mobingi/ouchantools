@@ -1,2 +1,2 @@
 # ouchantools
-Ouchan release repository
+Ouchan tools release repository
