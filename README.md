@@ -1,2 +1,1 @@
-# ouchantools
-Ouchan tools release repository
+Release repository for tools from https://github.com/mobingilabs/ouchan.
